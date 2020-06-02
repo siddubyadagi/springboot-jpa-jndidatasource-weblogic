@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.accurate.solutions</groupId>
-	<artifactId>springboot-jdbc-jndi-notomcat-project</artifactId>
+	<artifactId>springboot-jpa-jndidatasource-weblogic</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>springboot-jpa-jndidatasource-weblogic</name>
